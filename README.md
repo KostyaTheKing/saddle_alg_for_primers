@@ -2,6 +2,7 @@ This is my implementation of the SADDLE algorithm described in https://doi.org/1
 You can try out the SADDLE algorithm with an example provided in the repo with `interactive_saddle.ipynb`.<br>
 If you want to use your own data, then:<br>
 1) Create a table with all of the primers that you are going to choose from (an example table is provided `Example_primer_sets.xlsx`). The table should look like this:<br>
+
 | primer_for_1 | primer_rev_1 | primer_for_2 | primer_rev_2 | ... |
 |:------------:|:------------:|:------------:|:------------:|:---:|
 |AGTCGATACTGATT|AGCTCGTGCTGTTC|GATCTATGTACGTT|CGCTATATGCTAGT|...  |
